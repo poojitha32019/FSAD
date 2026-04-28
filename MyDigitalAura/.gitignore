@@ -1,0 +1,27 @@
+# Maven
+backend/target/
+backend/*.log
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Uploads (don't commit user files)
+backend/uploads/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.settings/
+.classpath
+.project
+.factorypath
+
+# Env
+.env
+.env.*
